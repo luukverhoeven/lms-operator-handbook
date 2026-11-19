@@ -1,0 +1,11 @@
+site_name: LMS operator handbook
+site_description: Procedures for leftover settings on an LMS you administer.
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - Chamilo install copy: chamilo-configuration-dist.md
+  - Open edX staff debug: openedx-staff-debug.md
+  - Totara force login: totara-forcelogin.md
+  - WordPress registration: wordpress-users-can-register.md
+  - Laravel log level: laravel-log-level-debug.md
